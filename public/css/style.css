@@ -1,0 +1,17 @@
+img
+{
+	max-width: 480px;
+	width: 100%;
+	height: auto;
+        display: block;
+        margin:20px auto;
+
+  }
+
+body{ 
+    text-align:center;
+}
+
+h1 {
+    color:green;
+}
