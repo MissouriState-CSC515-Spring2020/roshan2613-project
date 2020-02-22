@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.098b1180.chunk.css",
+    "main.js": "/static/js/main.f675bb6a.chunk.js",
+    "main.js.map": "/static/js/main.f675bb6a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ee39a7f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ee39a7f.js.map",
+    "static/js/2.82b9bf54.chunk.js": "/static/js/2.82b9bf54.chunk.js",
+    "static/js/2.82b9bf54.chunk.js.map": "/static/js/2.82b9bf54.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7faf30308ba40a7d038484a21f188a0c.js": "/precache-manifest.7faf30308ba40a7d038484a21f188a0c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.098b1180.chunk.css.map": "/static/css/main.098b1180.chunk.css.map",
+    "static/js/2.82b9bf54.chunk.js.LICENSE.txt": "/static/js/2.82b9bf54.chunk.js.LICENSE.txt",
+    "static/media/car.JPG": "/static/media/car.2e48c452.JPG",
+    "static/media/food.JPG": "/static/media/food.1490a4de.JPG",
+    "static/media/monuments.JPG": "/static/media/monuments.fea1f9d6.JPG",
+    "static/media/nature.JPG": "/static/media/nature.4dbc4727.JPG",
+    "static/media/recent.JPG": "/static/media/recent.074caff6.JPG",
+    "static/media/sport.JPG": "/static/media/sport.5a028183.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee39a7f.js",
+    "static/js/2.82b9bf54.chunk.js",
+    "static/css/main.098b1180.chunk.css",
+    "static/js/main.f675bb6a.chunk.js"
+  ]
+}
