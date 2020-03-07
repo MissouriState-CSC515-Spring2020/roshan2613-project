@@ -18,27 +18,27 @@ function Nav() {
 
        <ul className = "nav-Links">
          <Link style = {navStyle} to = "/recent">
-           <li>Recent</li>
+           <li className = "nav-recent">Recent</li>
            </Link>
 
            <Link style = {navStyle} to = "/sport">
-           <li>Sport</li>
+           <li className = "nav-sport">Sport</li>
            </Link>
 
            <Link style = {navStyle} to = "/food">
-           <li>Food</li>
+           <li className = "nav-food">Food</li>
            </Link>
 
            <Link style = {navStyle} to = "/monument">
-           <li>Monument</li>
+           <li className = "nav-monument">Monument</li>
            </Link>
 
            <Link style = {navStyle} to = "/nature">
-           <li>Nature</li>
+           <li className = "nav-nature">Nature</li>
            </Link>
 
            <Link style = {navStyle}  to = "/car">
-           <li>Car</li>
+           <li className = "nav-car">Car</li>
            </Link>
 
 

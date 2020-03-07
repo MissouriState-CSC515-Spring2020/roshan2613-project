@@ -8,6 +8,7 @@ nav {
   min-height: 10vh;
   background:rgb(53, 194, 11) ;
   color: white;
+  
 }
 
 .nav-Links {
@@ -16,7 +17,50 @@ nav {
   justify-content: space-around;
   align-items: center;
   list-style: none;
+  /* box-sizing: border-box;  */
 }
+
+@media only screen and (max-width: 768px){
+.nav-Links{
+  margin: 20px;
+}
+
+.nav-recent {
+  margin: 20px;
+}
+
+.nav-sport{
+  margin: 20px;
+}
+
+.nav-food{
+  margin: 20px;
+}
+
+.nav-monument{
+  margin:20px;
+}
+
+.nav-nature {
+  margin: 20px;
+}
+
+.nav-car{
+  margin: 20px;
+}
+
+}
+
+
+/* 
+.html{
+  overflow-x: hidden;
+} */
+
+
+
+
+
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;
