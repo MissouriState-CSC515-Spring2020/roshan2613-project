@@ -1,14 +1,17 @@
 import React from 'react';
-import sport from '../src/img/sport.JPG';
+// import sport from '../src/img/sport.jpg';
 import './App.css';
+import Basketball from './videos/Basketball';
+
 
 function Sport() {
   return (
     <div >
-        <h1>Sport Pictures</h1>
-        <img src = {sport}>
+        <h1>Basketball videos</h1>
+        {/* <img src = {sport}>
           
-        </img>
+        </img> */}
+        <Basketball/>
       
     </div>
   );
