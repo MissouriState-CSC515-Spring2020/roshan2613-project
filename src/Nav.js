@@ -13,13 +13,19 @@ function Nav() {
   return (
    <nav>
       
-       <h3>Photo's Application</h3>
+       <h3>Video's Application</h3>
        
 
        <ul className = "nav-Links">
+<<<<<<< Updated upstream
          <Link style = {navStyle} to = "/recent">
            <li>Recent</li>
            </Link>
+=======
+         {/* <Link style = {navStyle} to = "/recent">
+           <li className = "nav-recent">Recent</li>
+           </Link> */}
+>>>>>>> Stashed changes
 
            <Link style = {navStyle} to = "/sport">
            <li>Sport</li>
@@ -29,9 +35,15 @@ function Nav() {
            <li>Food</li>
            </Link>
 
+<<<<<<< Updated upstream
            <Link style = {navStyle} to = "/monument">
            <li>Monument</li>
            </Link>
+=======
+           {/* <Link style = {navStyle} to = "/monument">
+           <li className = "nav-monument">Monument</li>
+           </Link> */}
+>>>>>>> Stashed changes
 
            <Link style = {navStyle} to = "/nature">
            <li>Nature</li>

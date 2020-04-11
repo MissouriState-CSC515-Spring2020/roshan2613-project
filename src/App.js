@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Nav from './Nav';
-import Recent from './Recent';
 import Sport from './Sport';
 import Food from './Food';
 import Monument from './Monument';
@@ -16,7 +15,6 @@ function App() {
    <Nav />
    <switch>
    <Route path = "/" exact component = {Home} />
-   <Route path = "/recent" component = {Recent} />
    <Route path = "/sport" component = {Sport} />
    <Route path = "/food" component = {Food} />
    <Route path = "/monument" component = {Monument} />

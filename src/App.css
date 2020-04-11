@@ -2,7 +2,9 @@
   text-align: center;
 }
 nav {
-  display:  flex;
+  /* width: 110%; */
+  /* height: 1010%; */
+  display:flex;
   justify-content: space-around;
   align-items: center;
   min-height: 10vh;
@@ -11,12 +13,70 @@ nav {
 }
 
 .nav-Links {
-  width: 40%;
+  width: 20%;
   display: flex;
   justify-content: space-around;
   align-items: center;
   list-style: none;
 }
+<<<<<<< Updated upstream
+=======
+
+body {
+  background-color: #00cec9;
+}
+
+button{
+  margin: 10;
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #f1c40f;
+
+}
+
+/* 
+@media only screen and (max-width: 768px){
+.nav-Links{
+  margin: 20px;
+}
+
+.nav-recent {
+  margin: 20px;
+}
+
+.nav-sport{
+  margin: 20px;
+}
+
+.nav-food{
+  margin: 20px;
+}
+
+.nav-monument{
+  margin:20px;
+}
+
+.nav-nature {
+  margin: 20px;
+}
+
+.nav-car{
+  margin: 20px;
+}
+
+} */
+
+
+/* 
+.html{
+  overflow-x: hidden;
+} */
+
+
+
+
+
+>>>>>>> Stashed changes
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;
