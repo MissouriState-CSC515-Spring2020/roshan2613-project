@@ -1,5 +1,5 @@
 import React from 'react';
-import monumnet from '../src/img/monuments.jpg';
+import monumnet from '../src/img/monuments.JPG';
 import './App.css';
 
 function Monument() {
